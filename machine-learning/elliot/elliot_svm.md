@@ -37,6 +37,8 @@ Cons
 - Long training time
 - Difficult to understand and interpret the model
 
+
+
 Notes from:  
 [Cracking the DS phone interview](https://medium.com/@bruceyanghy/crack-the-machine-learning-phone-interview-guide-9e4dc316f65b)
 
