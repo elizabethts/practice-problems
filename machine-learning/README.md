@@ -2,6 +2,10 @@
 
 Name files with name_algorithm.md when making a pull request.
 
+#### Others
+
+[Parametric vs. Non-Parametric](parametric.md)
+
 #### Linear Regression
 
 [han](han_notes.pdf)
@@ -11,7 +15,10 @@ Name files with name_algorithm.md when making a pull request.
 #### Regression with Lasso
 [han](han_notes.pdf)
 
+[Elliot](/elliot/elliot_lasso.md)
+
 #### Regression with Ridge
+[Elliot](/elliot/elliot_ridge.md)
 
 #### Stepwise Regression
 
@@ -23,9 +30,13 @@ Name files with name_algorithm.md when making a pull request.
 
 [han](han_notes.pdf)
 
+[Elliot](/elliot/elliot_log_regression.md)
+
 #### Naïve Bayes
 
 [Liz](link_to_file)
+
+[Elliot](/elliot/elliot_naive_bayes.md)
 
 #### K-Nearest Neighbors
 
@@ -33,7 +44,11 @@ Name files with name_algorithm.md when making a pull request.
 
 #### Decision Tree
 
+[Elliot](/elliot/elliot_decision_trees.md)
+
 #### Random Forest
+
+[Elliot](/elliot/elliot_random_forest.md)
 
 #### Ada-Boost
 
@@ -41,9 +56,13 @@ Name files with name_algorithm.md when making a pull request.
 
 [han](han_notes.pdf)
 
+[Elliot](/elliot/elliot_gradient_boost.md)
+
 #### SVM (Support Vector Machine)
 
 [han](han_notes.pdf)
+
+[Elliot](/elliot/elliot_svm.md)
 
 #### PCA (Principal Component Analysis)
 
